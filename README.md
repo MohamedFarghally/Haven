@@ -4,11 +4,11 @@ A security scanning service that clones GitHub repositories, builds Docker conta
 
 ## Features
 
-- 🐳 **Containerized Security**: Scans applications in isolated Docker containers
-- 🔍 **Automated Analysis**: Checks for missing security headers and common vulnerabilities
-- 🌐 **Modern UI**: Beautiful glass-morphism interface with dark/light themes
-- ⚡ **Real-time Scanning**: Live feedback with elegant notifications
-- 🧹 **Auto Cleanup**: Automatically removes containers, images, and cloned repos
+-  **Containerized Security**: Scans applications in isolated Docker containers
+-  **Automated Analysis**: Checks for missing security headers and common vulnerabilities
+-  **Modern UI**: Beautiful glass-morphism interface with dark/light themes
+-  **Real-time Scanning**: Live feedback with elegant notifications
+-  **Auto Cleanup**: Automatically removes containers, images, and cloned repos
 
 ## Quick Start
 
